@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(124, 105, 79);
+  /*background-color: rgb(124, 105, 79);*/
+  background: url("flowing.jpg");
 }
 video-container {
   display: flex;
@@ -17,15 +18,18 @@ h1 {
   text-transform: uppercase;
   font-size: 3rem;
   font-weight: bold;
+  color: black;
   
 }
 h2 {
   font-size: 2rem;
   margin-top: -10px;
+  color: darkblue;
 }
 h3 {
   font-size: 1.5rem;
   margin-top: -10px;
+  color: black;
 }
 
 .poster {
@@ -35,11 +39,14 @@ h3 {
   color: whitesmoke;
   font-family: "Libre Baskerville", serif;
   text-align: center;
+  color: darkblue;
+  font-weight: bolder;
 }
 
 .motivation-img {
   border: 15px solid rgb(193, 193, 204);
   width: 100%;
 }
+
 
 
