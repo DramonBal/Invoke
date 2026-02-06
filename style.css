@@ -18,7 +18,7 @@ h1 {
   text-transform: uppercase;
   font-size: 3rem;
   font-weight: bold;
-  color: black;
+  color: red;
   
 }
 h2 {
@@ -29,7 +29,7 @@ h2 {
 h3 {
   font-size: 1.5rem;
   margin-top: -10px;
-  color: black;
+  color: darkblue;
 }
 
 .poster {
@@ -39,7 +39,7 @@ h3 {
   color: whitesmoke;
   font-family: "Libre Baskerville", serif;
   text-align: center;
-  color: darkblue;
+  color: red;
   font-weight: bolder;
 }
 
@@ -47,6 +47,7 @@ h3 {
   border: 15px solid rgb(193, 193, 204);
   width: 100%;
 }
+
 
 
 
