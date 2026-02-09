@@ -35,12 +35,12 @@ h1 {
 h2 {
   font-size: 2rem;
   margin-top: -10px;
-  color: white;
+  color: solid rgb(112, 16, 48) ;
 }
 h3 {
   font-size: 1.5rem;
   margin-top: -10px;
-  color: white;
+  color: solid rgb(112, 16, 48);
 }
 
 .poster {
@@ -58,6 +58,7 @@ h3 {
   border: 15px solid rgb(193, 193, 204);
   width: 100%;
 }
+
 
 
 
